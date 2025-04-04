@@ -11,8 +11,8 @@
 # 🌐 Socials
 
 <a href="https://instagram.com/abinissac_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://reddit.com/user/u/Objective-Race-212"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/abin-issac"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/Objective-Race-212"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/30165054/abin-issac"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
 <a href="mailto:abin.issac2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
 # 💻 Tech Stack
