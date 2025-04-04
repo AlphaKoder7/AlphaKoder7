@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/xl1VZGh.png" alt="Abin Issac" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #00c3ff;" />
-  <br><br>
-  <b>MSc @ Symbiosis | Cloud Learner | Code Enthusiast</b>
-</div>
-
 ## Hi, I'm Abin 👋
 
 
