@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Cloud Animation Banner" width="100%" />
+  <img src="https://i.imgur.com/dwDqInq.gif" alt="Cloud Animation Banner" width="100%" />
 </p>
-
 
 ## Hi, I'm Abin 👋
 
