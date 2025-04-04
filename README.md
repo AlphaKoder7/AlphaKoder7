@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif" alt="Cloud Animation Banner" width="100%" />
+  <img src="https://i.imgur.com/FSazAhH.gif" alt="Cloud Animation Banner" width="100%" />
 </div>
 
 
