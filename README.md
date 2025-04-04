@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/AlphaKoder7/Doctor_Appointment_System/blob/main/images/%C2%ABCLOUDS%C2%BB%202D%20VFX%20Animation,%20Ivan%20Boyko.gif?raw=true" alt="Cloud Animation Banner" width="100%" />
+  <img src="https://github.com/AlphaKoder7/Doctor_Appointment_System/blob/main/images/%C2%ABCLOUDS%C2%BB%202D%20VFX%20Animation,%20Ivan%20Boyko.gif?raw=true" alt="Cloud Animation Banner" width="100%" height="400px" />
 </p>
+
 
 ## Hi, I'm Abin 👋
 
