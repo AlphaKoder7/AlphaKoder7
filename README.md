@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/dwDqInq.gif" alt="Cloud Animation Banner" width="100%" height="200px" />
+  <img src="https://i.imgur.com/QRRDBAV.gif" alt="Cloud Animation Banner" width="100%" height="200px" />
 </p>
 
 
