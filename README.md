@@ -40,8 +40,4 @@ RESTful API with FastAPI and Pydantic validation, containerised with Docker Comp
 <a href="https://www.linkedin.com/in/abin-issac-cloud"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abin.issac2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-# 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlphaKoder7&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-
 </div>
